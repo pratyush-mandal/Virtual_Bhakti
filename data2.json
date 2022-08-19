@@ -1,0 +1,316 @@
+{
+  "data": [
+    {
+      "name": "ISKCON temple",
+      "latitude": 26.7290439,
+      "longitude": 88.4411272,
+      "address": "Iskcon Rd, Ward 41, Gitalpara, Siliguri, West Bengal 734006",
+      "about": "Modern Hare Krishna temple with colorful idols, murals in prayer halls & sculpture in water gardens.",
+      "photo": "./img/ISKCON Siliguri.png"
+    },
+    {
+      "name": "Salugara Monastery",
+      "latitude": 26.7669426,
+      "longitude": 88.4428718,
+      "address": "Ward 42, Salugara, Siliguri, West Bengal 734004",
+      "about": "Monumental Buddhist monastery & meditation centre featuring a 100-ft. stupa & reliquary.",
+      "photo": "./img/Salugara Monastery.png"
+    },
+    {
+      "name": "Kalighat Kali Temple",
+      "latitude": 22.5202433,
+      "longitude": 88.3333319,
+      "address": "Anami Sangha, Kalighat, Kolkata, West Bengal 700026",
+      "about": "Colonial-era temple complex dedicated to the Hindu Goddess of empowerment and liberation, Kali.",
+      "photo": ""
+    },
+    {
+      "name": "Dakshineswar Kali Temple",
+      "latitude": 22.6549087,
+      "longitude": 88.355342,
+      "address": "Dakshineswar, Kolkata, West Bengal 700076",
+      "about": "Dakshineswar Kali Temple is a Hindu navaratna temple in Dakshineswar, Kolkata. The presiding deity of the temple is Bhavatarini, a form of Parashakti Adya Kali, otherwise known as Adishakti Kalika.",
+      "photo": ""
+    },
+    {
+      "name": "Shri Siddheshwari Kali Mandir",
+      "latitude": 26.7303144,
+      "longitude": 88.393891,
+      "address": "Ward 1 Patiram Jote Siliguri Darjeeling West Bengal 734001 Republic of",
+      "about": "Devotional place , open in the morning and evening. The evening arty gives peace of mind.",
+      "photo": ""
+    },
+    {
+      "name": " Piyala Maa Kali Temple",
+      "latitude": 23.5331684,
+      "longitude": 87.2982971,
+      "address": "NH - 2, Grand Trunk Rd, City Center, Durgapur, West Bengal 713216",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Arrah Shiv Mandir",
+      "latitude": 23.5157513,
+      "longitude": 87.3766561,
+      "address": "G98H+8G5, Shibtala-Gopalpur Rd, Arrah Kalinagar, Durgapur, West Bengal 713212",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Shree Jagannath Temple",
+      "latitude": 19.8049379,
+      "longitude": 85.8157499,
+      "address": "Grand Rd, At post, Puri, Odisha 752001",
+      "about": "1161 complex & revered pilgrimage destination, with a main temple & 30 smaller surrounding ones.",
+      "photo": ""
+    },
+    {
+      "name": "MAA GHAGHR BURI TEMPLE",
+      "latitude": 23.6827118,
+      "longitude": 87.0040521,
+      "address": "NH 2, Nunia River Bank, Kalipahari, Asansol, West Bengal 713339",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Ram Mandir Malda",
+      "latitude": 25.001798,
+      "longitude": 88.143329,
+      "address": "242W+P66, Beltala Kali Mandir, B. S. Road,, Malda, West Bengal 732101",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Sree Gopal Jew Mandir",
+      "latitude": 22.0902785,
+      "longitude": 88.1331208,
+      "address": "34RP+447, Basudevpur, Haldia, West Bengal 721602",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Peace Pagoda",
+      "latitude": 27.0275867,
+      "longitude": 88.2567985,
+      "address": "27H5+2HQ, West Point, Darjeeling, West Bengal 734102",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Boroma Kali Temple",
+      "latitude": 23.2353319,
+      "longitude": 87.8642855,
+      "address": "6VP8+4HQ, Kalibazar, Burdwan, West Bengal 713101",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": " 108 Shiva Mandir",
+      "latitude": 23.2690116,
+      "longitude": 87.8300439,
+      "address": " MORE, NABABHAT, Suri Rd, Burdwan, West Bengal 713111",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Jorashiv Temple",
+      "latitude": 24.1755601,
+      "longitude": 88.2671454,
+      "address": "Lalbagh, Murshidabad, West Bengal 742149, India",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "  Jagannath Temple",
+      "latitude": 22.3412565,
+      "longitude": 87.2998644,
+      "address": "88R2+GR3, Beside Puja Mall, Nimpura Rd, near Gate Bazar more, Kharagpur, West Bengal 721301",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Mahamaya Mandir",
+      "latitude": 23.2346984,
+      "longitude": 87.0654856,
+      "address": "63M9+V3F, Subhas Road, Chowk Bazer Ln, Bankura, West Bengal 722101",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Madanmohan Temple",
+      "latitude": 26.3200981,
+      "longitude": 89.4430678,
+      "address": "8CCW+24J, Cooch Behar, West Bengal 736101",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Siddheshwari Kali Mandir",
+      "latitude": 22.4293115,
+      "longitude": 87.3270064,
+      "address": "Habibpur, Midnapore, West Bengal 721101",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Sri Mahaprabhu Mandir",
+      "latitude": 23.4124776,
+      "longitude": 88.3668475,
+      "address": " C969+XJV, MAHAPRABHU PARA, Nabadwip, West Bengal 741302",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": " Chinnamasta Temple",
+      "latitude": 23.0614608,
+      "longitude": 87.3208327,
+      "address": "387C+37F, Dalmadal Para, Bishnupur, West Bengal 722122",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": " Badi Patan Devi Temple, Patna",
+      "latitude": 25.6050214,
+      "longitude": 85.2039364,
+      "address": "Sadikpur, Patna, Bihar 800007",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Maa Raj Rajeshwari Devi Mandir",
+      "latitude": 26.1127301,
+      "longitude": 85.3942622,
+      "address": "497W+3HW, Club Rd, Mahammadpur Kazi, Mithanpura, Muzaffarpur, Bihar 842002",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Gayaji pinddan",
+      "latitude": 24.7786181,
+      "longitude": 85.004534,
+      "address": "Punjabi Bhawan Shree Vishnupad Road Opposite Punjab National Bank, Chand Chaura, Gaya, Bihar 823001",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Baba Baidyanath Temple",
+      "latitude": 24.4924758,
+      "longitude": 86.6977786,
+      "address": "Shivganga Muhalla, Deoghar, Jharkhand 814112",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Shyam Mandir Hazaribag",
+      "latitude": 23.995846,
+      "longitude": 85.3495096,
+      "address": "X9W2+8MP, New Area, Hazaribagh, Jharkhand 825301",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Konark Sun Temple",
+      "latitude": 19.8875953,
+      "longitude": 86.0923477,
+      "address": "Konark, Odisha 752111",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Umananda Temple",
+      "latitude": 26.1964615,
+      "longitude": 91.7426362,
+      "address": " Peacock Island, Baruah Souk, North Guwahati, Guwahati, Assam 781030",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Jayanti Shaktipeeth Nartiang Durga Temple",
+      "latitude": 25.5672446,
+      "longitude": 92.2088432,
+      "address": " H686+VCV, Nartiāng, Meghalaya 793150",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Thakurbari Temple",
+      "latitude": 27.3301025,
+      "longitude": 88.6110133,
+      "address": "8JJ7+27W, Mahatma Gandhi Marg, Arithang, Gangtok, Sikkim 737101",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Tripurasundari Temple",
+      "latitude": 23.1118086,
+      "longitude": 80.4731044,
+      "address": "4F6G+P4F, Bhanpur Bisoura, Madhya Pradesh 481885",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Shakti Peeth Chamunda Devi Temple",
+      "latitude": 32.1483503,
+      "longitude": 76.4163598,
+      "address": " Chamunda Temple Path, Padar, Himachal Pradesh 176052",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Maa Chintpurni Temple",
+      "latitude": 31.8086612,
+      "longitude": 76.1006665,
+      "address": "Vpo chintpurni, teh Amb, Moien, Chintpurni, Himachal Pradesh 177110",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Mata Jawala Ji Temple Shaktipeeth",
+      "latitude": 31.8423017,
+      "longitude": 76.1435516,
+      "address": "V8GF+7PG, Jawala Ji Temple Road, Jawalamukhi, Himachal Pradesh 176031",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Sri Harmandir Sahib",
+      "latitude": 31.6199848,
+      "longitude": 74.8742962,
+      "address": "Golden Temple Rd, Atta Mandi, Katra Ahluwalia, Amritsar, Punjab 143006",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Kedarnath Temple",
+      "latitude": 30.7352354,
+      "longitude": 79.0647063,
+      "address": "Kedarnath, Uttarakhand 246445",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Yog Maya Mandir",
+      "latitude": 28.525256,
+      "longitude": 77.1805177,
+      "address": "Yogmaya, Kali Mata Mandir Rd, Mehrauli, Delhi 110030",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Shree Karni Mataji Temple",
+      "latitude": 27.7909391,
+      "longitude": 73.3386507,
+      "address": "NH 89, Deshnok, Rajasthan 334801",
+      "about": "",
+      "photo": ""
+    },
+    {
+      "name": "Sankatmochan Temple",
+      "latitude": 25.2828161,
+      "longitude": 82.9979324,
+      "address": "Sankat Mochan Rd, Padampuri Colony, Jawahar Nagar Colony, Bhelupur, Varanasi, Uttar Pradesh 221010",
+      "about": "",
+      "photo": ""
+    }
+  ]
+}
