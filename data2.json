@@ -22,7 +22,7 @@
       "longitude": 88.3333319,
       "address": "Anami Sangha, Kalighat, Kolkata, West Bengal 700026",
       "about": "Colonial-era temple complex dedicated to the Hindu Goddess of empowerment and liberation, Kali.",
-      "photo": ""
+      "photo": "./img/KalighatKaliTemple.png"
     },
     {
       "name": "Dakshineswar Kali Temple",
@@ -30,7 +30,7 @@
       "longitude": 88.355342,
       "address": "Dakshineswar, Kolkata, West Bengal 700076",
       "about": "Dakshineswar Kali Temple is a Hindu navaratna temple in Dakshineswar, Kolkata. The presiding deity of the temple is Bhavatarini, a form of Parashakti Adya Kali, otherwise known as Adishakti Kalika.",
-      "photo": ""
+      "photo": "./img/DakhineshwarKaliMaaMandir.png"
     },
     {
       "name": "Shri Siddheshwari Kali Mandir",
@@ -38,79 +38,79 @@
       "longitude": 88.393891,
       "address": "Ward 1 Patiram Jote Siliguri Darjeeling West Bengal 734001 Republic of",
       "about": "Devotional place , open in the morning and evening. The evening arty gives peace of mind.",
-      "photo": ""
+      "photo": "./img/SiddheshwariKaliMandir.png"
     },
     {
-      "name": " Piyala Maa Kali Temple",
+      "name": "Piyala Maa Kali Temple",
       "latitude": 23.5331684,
       "longitude": 87.2982971,
       "address": "NH - 2, Grand Trunk Rd, City Center, Durgapur, West Bengal 713216",
-      "about": "",
-      "photo": ""
+      "about": "Its a Hindu kali temple",
+      "photo": "./img/Piyala Maa Kali Temple.png"
     },
     {
       "name": "Arrah Shiv Mandir",
       "latitude": 23.5157513,
       "longitude": 87.3766561,
       "address": "G98H+8G5, Shibtala-Gopalpur Rd, Arrah Kalinagar, Durgapur, West Bengal 713212",
-      "about": "",
-      "photo": ""
+      "about": "Its a Hindu Shiv temple",
+      "photo": "./img/ArrahShivMandir.png"
     },
     {
       "name": "Shree Jagannath Temple",
       "latitude": 19.8049379,
       "longitude": 85.8157499,
       "address": "Grand Rd, At post, Puri, Odisha 752001",
-      "about": "1161 complex & revered pilgrimage destination, with a main temple & 30 smaller surrounding ones.",
-      "photo": ""
+      "about": "The Jagannath Temple is an important Hindu temple dedicated to Jagannath, a form of Vishnu - one of the trinity of supreme divinity in Hinduism, Puri is in the state of Odisha on the eastern coast of India. The present temple was rebuilt from the 10th century onwards, on the site of pre existing temples in the compound but not the main Jagannatha temple, and begun by Anantavarman Chodaganga, the first king of the Eastern Ganga dynasty.",
+      "photo": "./img/ShreeJagannathTemple.png"
     },
     {
       "name": "MAA GHAGHR BURI TEMPLE",
       "latitude": 23.6827118,
       "longitude": 87.0040521,
       "address": "NH 2, Nunia River Bank, Kalipahari, Asansol, West Bengal 713339",
-      "about": "",
-      "photo": ""
+      "about": "It's a nice place to visit! Best thing is marriages are also done here! Overall a very relaxing place for religious people",
+      "photo": "./img/MaaGhaghrBuriTemple.png"
     },
     {
-      "name": "Ram Mandir Malda",
+      "name": "ISKCON temple Malda",
       "latitude": 25.001798,
       "longitude": 88.143329,
       "address": "242W+P66, Beltala Kali Mandir, B. S. Road,, Malda, West Bengal 732101",
-      "about": "",
-      "photo": ""
+      "about": "A small temple in a congested town, but very vibrant and peaceful. They arrange Rath Yatra every year.",
+      "photo": "./img/IskconMalda.png"
     },
     {
       "name": "Sree Gopal Jew Mandir",
       "latitude": 22.0902785,
       "longitude": 88.1331208,
       "address": "34RP+447, Basudevpur, Haldia, West Bengal 721602",
-      "about": "",
-      "photo": ""
+      "about": "Nice atmosphere around the temple...one of the oldest temple in Birati..Temple is just beside Birati stn...Kirtan starts at 7:00 P.M",
+      "photo": "./img/ShriGopalJewMandir.png"
     },
     {
       "name": "Peace Pagoda",
       "latitude": 27.0275867,
       "longitude": 88.2567985,
       "address": "27H5+2HQ, West Point, Darjeeling, West Bengal 734102",
-      "about": "",
-      "photo": ""
+      "about": "Serene Buddhist temple with a domed roof, gilded statues, ornate carvings & valley views.",
+      "photo": "./img/PeacePagodaDarjeeling.png"
     },
     {
       "name": "Boroma Kali Temple",
       "latitude": 23.2353319,
       "longitude": 87.8642855,
       "address": "6VP8+4HQ, Kalibazar, Burdwan, West Bengal 713101",
-      "about": "",
-      "photo": ""
+      "about": "It is enough to bow one's head in reverence to the famous Kali temple of Birhata, Bardhaman. This is the most famous and most respected Kali temple of Burdwan",
+      "photo": "./img/BoromaKaliTemple.png"
     },
     {
-      "name": " 108 Shiva Mandir",
+      "name": "Shiva Mandir",
       "latitude": 23.2690116,
       "longitude": 87.8300439,
       "address": " MORE, NABABHAT, Suri Rd, Burdwan, West Bengal 713111",
-      "about": "",
-      "photo": ""
+      "about": "Storied Hindu site with 108 temples lined up next to a pond, plus sculptures & shade trees.",
+      "photo": "./img/108 Shiva Mandir, Burdwan.png"
     },
     {
       "name": "Jorashiv Temple",
@@ -149,56 +149,56 @@
       "latitude": 22.4293115,
       "longitude": 87.3270064,
       "address": "Habibpur, Midnapore, West Bengal 721101",
-      "about": "",
-      "photo": ""
+      "about": "Siddheshwari Kali Mandir is located at habibpur near habibpur sub post office of Midnapore Town. It's a beautiful quiet calm place for the devotees.",
+      "photo": "./img/Siddheshwari Kali Mandir.png"
     },
     {
       "name": "Sri Mahaprabhu Mandir",
       "latitude": 23.4124776,
       "longitude": 88.3668475,
       "address": " C969+XJV, MAHAPRABHU PARA, Nabadwip, West Bengal 741302",
-      "about": "",
-      "photo": ""
+      "about": "Nabadwip towns historical place",
+      "photo": "./img/Sri Sri Mahaprabhu Mandir.png"
     },
     {
       "name": " Chinnamasta Temple",
       "latitude": 23.0614608,
       "longitude": 87.3208327,
       "address": "387C+37F, Dalmadal Para, Bishnupur, West Bengal 722122",
-      "about": "",
-      "photo": ""
+      "about": "Amongst the most noteworthy and venerated temples in the historic town of Bishnupur",
+      "photo": "./img/Chinnamasta Temple.png"
     },
     {
       "name": " Badi Patan Devi Temple, Patna",
       "latitude": 25.6050214,
       "longitude": 85.2039364,
       "address": "Sadikpur, Patna, Bihar 800007",
-      "about": "",
-      "photo": ""
+      "about": "Hindu temple founded on one of 51 sites where parts of Devi Sati's corpse are said to have fallen.",
+      "photo": "./img/Badi Patan Devi Temple, Patna.png"
     },
     {
       "name": "Maa Raj Rajeshwari Devi Mandir",
       "latitude": 26.1127301,
       "longitude": 85.3942622,
       "address": "497W+3HW, Club Rd, Mahammadpur Kazi, Mithanpura, Muzaffarpur, Bihar 842002",
-      "about": "",
-      "photo": ""
+      "about": "One the famous and beautiful hindu temple of maa Durga🚩🙏 in Muzaffarpur district ",
+      "photo": "./img/Maa Raj Rajeshwari Devi Mandir.png"
     },
     {
       "name": "Gayaji pinddan",
       "latitude": 24.7786181,
       "longitude": 85.004534,
       "address": "Punjabi Bhawan Shree Vishnupad Road Opposite Punjab National Bank, Chand Chaura, Gaya, Bihar 823001",
-      "about": "",
-      "photo": ""
+      "about": "Best place for any kind of pinddan, tripindi, Narayan Bali. If you are looking for best pandits in Gaya, then must visit gayaji pinddan pandit Gokul Dubey.",
+      "photo": "./img/Gayaji pinddan.png"
     },
     {
       "name": "Baba Baidyanath Temple",
       "latitude": 24.4924758,
       "longitude": 86.6977786,
       "address": "Shivganga Muhalla, Deoghar, Jharkhand 814112",
-      "about": "",
-      "photo": ""
+      "about": "Iconic religious site with 22 temples including one of the 12 Jyotirlinga shrines honoring Shiva.",
+      "photo": "./img/Baba Baidyanath Jyotirlinga Temple.png"
     },
     {
       "name": "Shyam Mandir Hazaribag",
@@ -213,32 +213,32 @@
       "latitude": 19.8875953,
       "longitude": 86.0923477,
       "address": "Konark, Odisha 752111",
-      "about": "",
-      "photo": ""
+      "about": "Ornately sculpted, 13th-century Hindu place of worship depicting the vast chariot of sun god, Surya.",
+      "photo": "./img/Konark Sun Temple.png"
     },
     {
       "name": "Umananda Temple",
       "latitude": 26.1964615,
       "longitude": 91.7426362,
       "address": " Peacock Island, Baruah Souk, North Guwahati, Guwahati, Assam 781030",
-      "about": "",
-      "photo": ""
+      "about": "Rebuilt after an earthquake in 1897, this revered Shiva temple attracts visitors by boat & ferry.",
+      "photo": "./img/Umananda Temple.png"
     },
     {
       "name": "Jayanti Shaktipeeth Nartiang Durga Temple",
       "latitude": 25.5672446,
       "longitude": 92.2088432,
       "address": " H686+VCV, Nartiāng, Meghalaya 793150",
-      "about": "",
-      "photo": ""
+      "about": "Jayanti Shaktipeeth Nartiang Durga Temple is a 600-year-old Durga temple located in the West Jaintia Hills district of Meghalaya, Northeast.",
+      "photo": "./img/Jayanti Shaktipeeth Shri Nartiang Durga Temple Meghalaya.png"
     },
     {
       "name": "Thakurbari Temple",
       "latitude": 27.3301025,
       "longitude": 88.6110133,
       "address": "8JJ7+27W, Mahatma Gandhi Marg, Arithang, Gangtok, Sikkim 737101",
-      "about": "",
-      "photo": ""
+      "about": "Large Hindu temple complex located at heart of Gangtok. Easy access from end of MG road.",
+      "photo": "./img/Thakurbari Temple.png"
     },
     {
       "name": "Tripurasundari Temple",
