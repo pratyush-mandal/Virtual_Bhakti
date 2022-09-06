@@ -1,3 +1,3 @@
 # Virtual_Bhakti
 
-Visit "virtualbhakti.netlify.app" to see the demo.
+Visit "virtualbhakti.netlify.app" to see the LIVE demo.
